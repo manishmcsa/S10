@@ -29,7 +29,7 @@ factor: 0.1
 patience: 3
 min_lr: 1e-5
 Results
-Achieved an accuracy of 91.75% in 43rd epoch.
+Achieved an accuracy of 89.22% in 43rd epoch.
 
 #LR Finder
 Best Loss: 1.876451529501383
